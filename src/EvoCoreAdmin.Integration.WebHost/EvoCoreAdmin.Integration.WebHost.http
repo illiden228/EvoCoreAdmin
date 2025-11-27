@@ -1,0 +1,6 @@
+@EvoCoreAdmin.Integration.WebHost_HostAddress = http://localhost:5128
+
+GET {{EvoCoreAdmin.Integration.WebHost_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
